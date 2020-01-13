@@ -1,30 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+**I want to learn**: Swift, pytorch
+**I want to get more practice with** tensorflow, front end development
+**I will do for fun** Advent of code, hackerrank, Project Euler 100
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**possible projects**:
+turn python code I have for reading in french webpage and creating a list of translations for words I don't know into an iOS app
+Make a 100 days of app to track work
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+### Day 0: Jan 13, 2020 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: Breaking the rules already -- I worked through a Swift tutorial and am in the process of making my very first app.  Since I have no experience at all in Swift, I'm counting tutorial work for the first few days.  I'm following https://www.raywenderlich.com/4919757-your-first-ios-and-swiftui-app/ 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts:** So far Swift is pretty easy to learn.  There's a lot in common with python and html, so that helps.  I'm making good progress
+
+**Link to work:** https://github.com/alyshareinard/firstswiftapp
