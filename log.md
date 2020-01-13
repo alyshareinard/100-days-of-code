@@ -10,7 +10,7 @@ Make a 100 days of app to track work
 
 
 
-### Day 0: Jan 13, 2020 
+### R1D1: Jan 13, 2020 
 
 **Today's Progress**: Breaking the rules already -- I worked through a Swift tutorial and am in the process of making my very first app.  Since I have no experience at all in Swift, I'm counting tutorial work for the first few days.  I'm following https://www.raywenderlich.com/4919757-your-first-ios-and-swiftui-app/ 
 
