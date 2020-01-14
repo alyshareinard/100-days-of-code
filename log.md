@@ -17,3 +17,11 @@ Make a 100 days of app to track work
 **Thoughts:** So far Swift is pretty easy to learn.  There's a lot in common with python and html, so that helps.  I'm making good progress
 
 **Link to work:** https://github.com/alyshareinard/firstswiftapp
+
+### R1D2: Jan 14, 2020 
+
+**Today's Progress**: I completed the "bullseye" Swift tutorial put a working bullseye App on my phone! Even better, though, I created my own app.  My son was practicing his times tables and he likes to see the numbers instead of hearing them -- so I made an app that lets him do just that. Had to spend lots of time on stackoverflow and google, but managed to put it together. It's an MVP now -- barebones, but works.  He likes it and we both have ideas for improving it.  
+
+**Thoughts:** Yay!  My first app of my very own!
+
+**Link to work:** https://github.com/alyshareinard/timestable
