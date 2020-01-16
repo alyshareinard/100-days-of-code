@@ -32,7 +32,7 @@ Make a 100 days of app to track work
 
 ### R1D3: Jan 15, 2020 
 
-**Today's Progress**: Working through some details of the Times table app -- resizing the answer box, adjusting the layout.  Also made planning list and did a little research for a wine inventory app my sister-in-law requested. Made my own numpad since the built in one doesn't have a "done" button and so permanately blocks several of my buttons.  Added ability to keep track of and display points.  
+**Today's Progress**: Working through some details of the Times table app -- resizing the answer box, adjusting the layout.  Made my own numpad since the built in one doesn't have a "done" button and so permanately blocks several of my buttons.  Added ability to keep track of and display points.  Also made planning list and did a little research for a wine inventory app my sister-in-law requested. 
 
 **Thoughts:** The Swift number pad keyboard really needs a "return" or "done" button!  WTH?  
 
