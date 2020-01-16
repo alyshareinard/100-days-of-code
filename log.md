@@ -33,3 +33,12 @@ Make a 100 days of app to track work
 **Thoughts:** The Swift number pad keyboard really needs a "return" or "done" button!  WTH?  
 
 **Link to work:** https://github.com/alyshareinard/timestable
+
+
+### R1D4: Jan 16, 2020 
+
+**Today's Progress**: My times table app had been picking numbers randomly from a given range, but this results in the user seeing some equations repeatedly and not seeing other equations -- so today I set up arrays for num1, num2 that contain the desired range of numbers to practice and then set up a 2d (shuffled) problems array of the form [ [num1, num2, num1*num2], ]  With this the code now removes problems that are answered correctly on the first try.  The problems array has to be set up when the start button is pushed and I don't have a good way to handle the end of play when there are no problems left. So that's my next job.  I'm now working through some tutorials to get a better handle on creating multiple screens for the start and finish parts of the app.  
+
+**Thoughts:** Working through problems on my own (with the help of google and stack overflow) has been very helpful, but at this point it's time to go back to tutorials for a bit to pick up some more fundamentals.  
+
+**Link to work:** https://github.com/alyshareinard/timestable
