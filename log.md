@@ -1,8 +1,10 @@
 # 100 Days Of Code - Log
 
 **I want to learn**: Swift, pytorch
+
 **I want to get more practice with** tensorflow, front end development
-**I will do for fun** Advent of code, hackerrank, Project Euler 100
+
+**I will do for fun/for a break** Advent of code, hackerrank, Project Euler 100
 
 **possible projects**:
 turn python code I have for reading in french webpage and creating a list of translations for words I don't know into an iOS app
