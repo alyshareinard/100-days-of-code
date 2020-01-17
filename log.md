@@ -46,3 +46,11 @@ Make a 100 days of app to track work
 **Thoughts:** Working through bugs/issues on my own (with the help of google and stack overflow) as I develop this app has been very helpful, but at this point it's time to go back to tutorials for a bit to pick up some more fundamentals.  
 
 **Link to work:** https://github.com/alyshareinard/timestable
+
+### R1D5: Jan 17, 2020 
+
+**Today's Progress**:  Today I focused on fundamentals -- working through 100 days of SwiftUI (https://www.hackingwithswift.com/100/swiftui) -- jumping through the first few days to fill out the knowledge I have so far. Learned about ternary operators -- that's what those ?'s are for! -- got a fuller understanding of function syntax, and starting a dive into closures -- closures are a new concept for me, and are important in Swift so I'll have to spend some time on them.  More fundamentals tomorrow and hopefully I'll be able to start implementing some of my learnings into my projects.  
+
+**Thoughts:** I'm familiar with the concept of passing functions to functions, but I haven't really done it -- closures seem like that on speed and actually important in this language, so I have some grokking to do.  
+
+**Link to work:** https://www.hackingwithswift.com/100/swiftui completed day 1-6
