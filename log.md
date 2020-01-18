@@ -53,4 +53,12 @@ Make a 100 days of app to track work
 
 **Thoughts:** I'm familiar with the concept of passing functions to functions, but I haven't really done it -- closures seem like that on speed and actually important in this language, so I have some grokking to do.  
 
-**Link to work:** https://www.hackingwithswift.com/100/swiftui completed day 1-6
+**Link to work:** https://www.hackingwithswift.com/100/swiftui completed day 1-5
+
+### R1D6: Jan 18, 2020 
+
+**Today's Progress**: Not much to report today.  Really had just an hour so worked through day 6 and part of day 7, really getting a handle on closures. Also read an article about making a menu in Swift.  That will be helpful for making the timestable app more customizable.  
+
+**Thoughts:** I'm getting closures -- hopeffuly I'll have time tomorrow to finish day 7 of the tutorial and look through some code examples to get a better feel for how closures are used in practice.  
+
+**Link to work:** https://www.hackingwithswift.com/100/swiftui completed day 6 - 7.5
