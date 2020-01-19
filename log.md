@@ -62,3 +62,11 @@ Make a 100 days of app to track work
 **Thoughts:** I'm getting closures -- hopeffuly I'll have time tomorrow to finish day 7 of the tutorial and look through some code examples to get a better feel for how closures are used in practice.  
 
 **Link to work:** https://www.hackingwithswift.com/100/swiftui completed day 6 - 7.5
+
+### R1D7: Jan 19, 2020 
+
+**Today's Progress**: Worked through the rest of the tutorial on closures and blew through the 2 days on Structures -- there was quite a bit in common with python structures, so it wasn't too hard. Looked through my own code examples with my new knowledge, which helped me interpret a few parts. Read up on codebase. Started playing with an implementation of a barcode reader, but I think I still need more background information about what the different files in the swiftui project folder do and how they interact.
+
+**Thoughts:** Closures are less daunting, structure are great -- I like being able to put a function into a structure. Very powerful.   
+
+**Link to work:** https://www.hackingwithswift.com/100/swiftui completed day 7.5-9
