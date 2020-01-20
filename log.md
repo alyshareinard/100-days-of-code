@@ -70,3 +70,14 @@ Make a 100 days of app to track work
 **Thoughts:** Closures are less daunting, structure are great -- I like being able to put a function into a structure. Very powerful.   
 
 **Link to work:** https://www.hackingwithswift.com/100/swiftui completed day 7.5-9
+
+
+
+### R1D8: Jan 20, 2020 
+
+**Today's Progress**: Added a timer to the Times tables app -- timer counts up and gives more points the faster the problem is solved.  It's nice to do some real project coding again.  Then on to more tutorials.  Classes, protocols, extensions, optionals.  All helping to clarify what I have seen in sample swift code.  Good stuff!  I like that on hackingwithswift they have videos and text explaining each point. I don't like to watch videos so I really appreciate the text! Then went through and created a couple of projects on the swiftui in 100 days page.  Ran into app developer limit for free account but found out how to delete apps from my phone using Window, devices and simulators, then deleting apps from my phone on there to make room for new ones.  
+
+**Thoughts:**  The tutorials and sample projects are a big help -- I have a better udnerstanding of how the different elements in ContentView work together.  I'm looking forward to a tutorial project that uses multiple app pages and/or uses some of the other files in the main project folder.  
+I wonder if I should get a developer account -- not yet, but maybe soon. 
+
+**Link to work:** https://www.hackingwithswift.com/100/swiftui completed day 10-12, 16-22.
