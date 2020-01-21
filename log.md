@@ -81,3 +81,11 @@ Make a 100 days of app to track work
 I wonder if I should get a developer account -- not yet, but maybe soon. 
 
 **Link to work:** https://www.hackingwithswift.com/100/swiftui completed day 10-12, 16-22.
+
+### R1D9: Jan 21, 2020 
+
+**Today's Progress**: Feeling under the weather but put my hour in -- worked through hacking with swift project and looked at a few swift practice sites.  In the Hacking With Swift there was a nice overview of the grid method -- I'll add that to my tiems table app tomorrow -- I am finding that the number keys don't line up on the ipad, so a grid might help.  
+
+**Thoughts:**  Tired, but feeling good about completing my hour of coding.  
+
+**Link to work:** https://www.hackingwithswift.com/100/swiftui completed day 23-24.5, checked out https://edabit.com/ for code practicing -- not a bad interface, but a bit slow.  
