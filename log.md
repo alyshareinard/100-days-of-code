@@ -89,3 +89,12 @@ I wonder if I should get a developer account -- not yet, but maybe soon.
 **Thoughts:**  Tired, but feeling good about completing my hour of coding.  
 
 **Link to work:** https://www.hackingwithswift.com/100/swiftui completed day 23-24.5, checked out https://edabit.com/ for code practicing -- not a bad interface, but a bit slow.  
+
+
+### R1D10: Jan 22, 2020 
+
+**Today's Progress**: Did the day 24 project (no code provided) creating a roshambo brain buster game.  Was able to put it together easily.  Then going to the next day it required core ML -- I have Apple Mojave and I'm reluctant to upgrade to Catalina, so that's causing some problems.  My Xcode 11.3 verson of core ML requires Catalina. 
+
+**Thoughts:**  Will I have to upgrade my os?  Ugh.  
+
+**Link to work:** https://www.hackingwithswift.com/100/swiftui day 24 project -- creating a Rock paper scissors brain builder game from scratch.   https://github.com/alyshareinard/roshambo
