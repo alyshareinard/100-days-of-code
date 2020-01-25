@@ -88,13 +88,31 @@ I wonder if I should get a developer account -- not yet, but maybe soon.
 
 **Thoughts:**  Tired, but feeling good about completing my hour of coding.  
 
-**Link to work:** https://www.hackingwithswift.com/100/swiftui completed day 23-24.5, checked out https://edabit.com/ for code practicing -- not a bad interface, but a bit slow.  
+**Link to work:** https://www.hackingwithswift.com/100/swiftui completed day 23-25.5, checked out https://edabit.com/ for code practicing -- not a bad interface, but a bit slow.  
 
 
 ### R1D10: Jan 22, 2020 
 
-**Today's Progress**: Did the day 24 project (no code provided) creating a roshambo brain buster game.  Was able to put it together easily.  Then going to the next day it required core ML -- I have Apple Mojave and I'm reluctant to upgrade to Catalina, so that's causing some problems.  My Xcode 11.3 verson of core ML requires Catalina. 
+**Today's Progress**: Did the day 25 project (no code provided) creating a roshambo brain buster game.  Was able to put it together easily.  Then going to the next day it required core ML -- I have Apple Mojave and I'm reluctant to upgrade to Catalina, so that's causing some problems.  My Xcode 11.3 verson of core ML requires Catalina. 
 
 **Thoughts:**  Will I have to upgrade my os?  Ugh.  
 
-**Link to work:** https://www.hackingwithswift.com/100/swiftui day 24 project -- creating a Rock paper scissors brain builder game from scratch.   https://github.com/alyshareinard/roshambo
+**Link to work:** https://www.hackingwithswift.com/100/swiftui day 25 project -- creating a Rock paper scissors brain builder game from scratch.   https://github.com/alyshareinard/roshambo
+
+
+### R1D11: Jan 23, 2020 
+
+**Today's Progress**: trying to get core ML to work I uninstalled Xcode, installed Xcode10.3. But then swiftUI didn't work,s o I upgraded again and skipped the core ML project for now...  Learned about animations -- really useful stuff! Projects 5 & 6 Day 29-34
+
+**Thoughts:** 
+
+**Link to work:** https://www.hackingwithswift.com/100/swiftui 
+
+
+### R1D12: Jan 24, 2020 
+
+**Today's Progress**: Project 7, day 36-38, hacking with swift -- learned about creating multiple views and passing values back and forth between views, also how to save data that is reloaded when app is reopened. Looked at day 35 -- challenge is times table app like the one I started with!  LOL. 
+
+**Thoughts:** 
+
+**Link to work:** https://www.hackingwithswift.com/100/swiftui 
