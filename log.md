@@ -116,3 +116,19 @@ I wonder if I should get a developer account -- not yet, but maybe soon.
 **Thoughts:** 
 
 **Link to work:** https://www.hackingwithswift.com/100/swiftui 
+
+### R1D13: Jan 25, 2020 
+
+**Today's Progress**: And now for something completely different.  Attended the Applied Machine Learning Days workshops.  Learned how to use machine learning in python to write browser extensions (specifically for ad blocking) got a bit of info on the scikit-mobility module that uses dataframes to interact with mobility data of individual people (cell phone data) or groups of people. Then attended a pytorch tutorial which helped me get accustomed to pytorch syntax.
+
+**Thoughts:** AMLDs is great.  
+
+**Link to work:** https://github.com/theevann/amld-pytorch-workshop
+
+### R1D14: Jan 26, 2020 
+
+**Today's Progress**: More AMLD -- spent the day learning about reinforcement learning and coding a "drone" to fly through "skyscrapers" to deliver packages -- they also needed to know when to visit a recharge station.  Learned a lot and enjoyed teh challenge
+
+**Thoughts:** AMLDs is great.  
+
+**Link to work:** https://github.com/pacm/rl-workshop
