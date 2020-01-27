@@ -123,7 +123,7 @@ I wonder if I should get a developer account -- not yet, but maybe soon.
 
 **Thoughts:** AMLDs is great.  
 
-**Link to work:** https://github.com/theevann/amld-pytorch-workshop
+**Link to work:** https://github.com/theevann/amld-pytorch-workshop, https://github.com/scikit-mobility/scikit-mobility
 
 ### R1D14: Jan 26, 2020 
 
