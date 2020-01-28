@@ -132,3 +132,12 @@ I wonder if I should get a developer account -- not yet, but maybe soon.
 **Thoughts:** AMLDs is great.  
 
 **Link to work:** https://github.com/pacm/rl-workshop
+
+
+### R1D15: Jan 26, 2020 
+
+**Today's Progress**: While I'm taking a break from swift, I decided to get started on the fastAI course -- I did most of this course 3-4 years ago, but they've updated it and I want to refresh my knowledge.  I decided to set things up on colab for now -- my weekend at the AMLD workshops was spent using colab extensively and I think it works pretty well.  I watched the first lesson and set the notebooks up on a Jetson Tx2 in November when I was working for a hardware startup, so for now I have just run through the first lesson again on colab and did some related reading.  
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/pacm/rl-workshop
