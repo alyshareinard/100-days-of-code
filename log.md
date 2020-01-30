@@ -141,3 +141,29 @@ I wonder if I should get a developer account -- not yet, but maybe soon.
 **Thoughts:** 
 
 **Link to work:** https://github.com/pacm/rl-workshop
+
+### R1D16: Jan 27, 2020 
+
+**Today's Progress**: Back to Swift, day 39-42 -- an app that provides information about the Apollo missions.  Includes separate screens for each mission/astronaut and a menu that is used to pull up those screens. Also included separate files the mission and astronaut structures and a file to decode the json files used as inputs -- oh, and I learned to add json files to a project and load them in.  Lots of stuff today! 
+
+**Thoughts:** I'm still not completely clear on the different files and when they're used, but I'm getting closer
+
+**Link to work:** https://www.hackingwithswift.com/100/swiftui 
+
+
+### R1D16: Jan 28, 2020 
+
+**Today's Progress**: Went back to AMLDs and talked to the people behind the GIOTTO codebase about working with their software and contributing.  Definitely a step forward, but I didn't actually write or run any code, so I'm not counting today.   
+
+**Thoughts:** Working with Giotto sounds great!
+
+**Link to work:** https://www.giotto.ai/   https://github.com/giotto-ai/giotto-tda
+
+
+### R1D17: Jan 29, 2020 
+
+**Today's Progress**: Spent a lot of time tooling around github and finding great resources to work with in python, deep learning, machine learning, interview questions, ios, web development -- I need to collate this information and determine priorities.  In order not to miss another day of real coding, I worked a bit more on the times table app, adding a rest button and starting to make a screen to let the player select the times table(s) that they want to work on. The app is broken now, but I have to get to some home stuff -- hopefully I can fix it tomorrow.    
+
+**Thoughts:** I thought I'd have an easy time making modifications to my app, but I'm still climbing the learning curve!
+
+**Link to work:** 
