@@ -164,6 +164,8 @@ I wonder if I should get a developer account -- not yet, but maybe soon.
 
 **Today's Progress**: Spent a lot of time tooling around github and finding great resources to work with in python, deep learning, machine learning, interview questions, ios, web development -- I need to collate this information and determine priorities.  In order not to miss another day of real coding, I worked a bit more on the times table app, adding a rest button and starting to make a screen to let the player select the times table(s) that they want to work on. The app is broken now, but I have to get to some home stuff -- hopefully I can fix it tomorrow.    
 
+Did the first two challenges in http://www.pythonchallenge.com/ -- fun puzzles
+
 **Thoughts:** I thought I'd have an easy time making modifications to my app, but I'm still climbing the learning curve!
 
-**Link to work:** 
+**Link to work:** http://www.pythonchallenge.com/ challenge 1 and 2
