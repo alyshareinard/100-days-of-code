@@ -169,3 +169,21 @@ Did the first two challenges in http://www.pythonchallenge.com/ -- fun puzzles
 **Thoughts:** I thought I'd have an easy time making modifications to my app, but I'm still climbing the learning curve!
 
 **Link to work:** http://www.pythonchallenge.com/ challenge 1 and 2
+
+### R1D18: Jan 31, 2020 
+
+**Today's Progress**: When through making flashcards for pythong -- things I should know.  Iterators and generators -- I use them all the time, but didn't have the terms connected to ideas/usages.      
+
+**Thoughts:** Terminology isn't too exciting, but it's important to be able to converse with programmers.  
+
+**Link to work:** 
+
+### R1D19: Feb 1, 2020 
+
+**Today's Progress**: More python/data science terminology. Then worked on my times table app some more -- I have the two views working now, but I'm running into "can't use mutating member on immutable value" errors when I have selectable buttons that allow the user to select which times tables they want to work on.  Also don't have the syntax right for passing those values on to the game view.  More research/trail-and-error is necessary.
+
+**Thoughts:** Lots to learn!
+
+**Link to work:** https://github.com/alyshareinard/timestable
+
+
