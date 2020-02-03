@@ -172,15 +172,33 @@ Did the first two challenges in http://www.pythonchallenge.com/ -- fun puzzles
 
 ### R1D18: Jan 31, 2020 
 
-**Today's Progress**: When through making flashcards for pythong -- things I should know.  Iterators and generators -- I use them all the time, but didn't have the terms connected to ideas/usages.      
+**Today's Progress**: Worked through the github resources, did a lot of reading, a bit frenetic -- reading up on Django, Giotto, etc.  Played a bit with my Swift programs
 
-**Thoughts:** Terminology isn't too exciting, but it's important to be able to converse with programmers.  
+
+**Thoughts:** Forgot to add a log entry Friday and I'm not clear on what I actually did!  Need to be better about logging my days.  
 
 **Link to work:** 
 
 ### R1D19: Feb 1, 2020 
 
+**Today's Progress**: Went through making flashcards for python-- things I should know.  Iterators and generators -- I use them all the time, but didn't have the terms connected to ideas/usages.      
+
+**Thoughts:** Terminology isn't too exciting, but it's important to be able to converse with programmers.  
+
+**Link to work:** 
+
+### R1D20: Feb 2, 2020 
+
 **Today's Progress**: More python/data science terminology. Then worked on my times table app some more -- I have the two views working now, but I'm running into "can't use mutating member on immutable value" errors when I have selectable buttons that allow the user to select which times tables they want to work on.  Also don't have the syntax right for passing those values on to the game view.  More research/trail-and-error is necessary.
+
+**Thoughts:** Lots to learn!
+
+**Link to work:** https://github.com/alyshareinard/timestable
+
+
+### R1D21: Feb 3, 2020 
+
+**Today's Progress**: When back to hacking with swift days 36-38 to better understand how to pass variables around.  I need to get a better handle on how classes work in Swift. It's good (but painful) to work through this on my own to really understand it.  Not a lot of time today.  Hopefully I'll get this worked out tomorrow. 
 
 **Thoughts:** Lots to learn!
 
