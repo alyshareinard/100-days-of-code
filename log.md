@@ -204,4 +204,10 @@ Did the first two challenges in http://www.pythonchallenge.com/ -- fun puzzles
 
 **Link to work:** https://github.com/alyshareinard/timestable
 
+### R1D22: Feb 4, 2020 
 
+**Today's Progress**: Okay -- I'm getting the handle of passing variables in Swift.  I created a class to store the global variable (options) that contains "vals" which are the times tables the user wants to study.  I am able to modify that using buttons (right now two rows of 6 buttons each created separately -- a future task is to change that to a couple Foreach loops. Todo tomorrow: pass that array to the game part, make the buttons shade when selected
+
+**Thoughts:** Making progress!
+
+**Link to work:** https://github.com/alyshareinard/timestable
