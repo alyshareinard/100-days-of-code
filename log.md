@@ -211,3 +211,20 @@ Did the first two challenges in http://www.pythonchallenge.com/ -- fun puzzles
 **Thoughts:** Making progress!
 
 **Link to work:** https://github.com/alyshareinard/timestable
+
+### R1D23: Feb 5, 2020 
+
+**Today's Progress**: Passed a class between views! Woo-hoo!  Made number buttons color when they're selected and pass those numbers on to the game view where the multiplication problems are created.  Also made an alert that comes up with the final score when the last problem is solved.  Another MVP.  Need to work on making it look pretty, but functionality is all there.  
+
+**Thoughts:** Feeling good!  
+
+**Link to work:** https://github.com/alyshareinard/timestable
+
+### R1D24: Feb 6, 2020 
+
+**Today's Progress**: Something different today -- I've been obsessed by the coronavirus news and I saw that someone had uploaded the data to Kaggle.  I played around with an existing kernel and then I created my own kernel!  First time I've submitted anything publicly!  I'd been interested in how the number of deaths looks versus the recoveries with different delays.  Fun stuff! 
+**Thoughts:** I guess I'm a kaggler now?  
+
+**Link to work:** https://www.kaggle.com/alyshareinard/coronavirus-animated-over-time-updated-lat-lons
+https://www.kaggle.com/alyshareinard/looking-at-deaths-vs-recoveries
+
