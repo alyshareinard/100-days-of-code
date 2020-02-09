@@ -228,3 +228,28 @@ Did the first two challenges in http://www.pythonchallenge.com/ -- fun puzzles
 **Link to work:** https://www.kaggle.com/alyshareinard/coronavirus-animated-over-time-updated-lat-lons
 https://www.kaggle.com/alyshareinard/looking-at-deaths-vs-recoveries
 
+
+### R1D25: Feb 7, 2020 
+
+**Today's Progress**: Back to hacking with swift -- days 43-46 -- lots of practice with drawing.  Nice examples that I have all in one file. Tomorrow or later today I'll go back and create different views for each example.  Good stuff here. 
+
+**Thoughts:** IOS drawing is nice and powerful.  
+
+**Link to work:** https://github.com/alyshareinard/drawing
+
+### R1D26: Feb 8, 2020 
+
+**Today's Progress**: I learned how to use tabview and used it to put the drawing examples all in one app to show off the different techniques (and make it easier to refer back to them when I need to).  Also working through day 47 and read the challenge problem for day 48.  
+
+**Thoughts:** https://www.hackingwithswift.com/guide/ios-swiftui/4/2/key-points -- has really a really important summary of classes vs structs and how the code uses them.  Also some info on user defined data. Worth rereading a few times!
+
+**Link to work:** https://github.com/alyshareinard/drawing
+
+### R1D27: Feb 9, 2020 
+
+**Today's Progress**: Not feeling it today -- but didn't want to lost my streak so I did a few regex exercises on hackerrank.  
+
+**Thoughts:** Low day today -- onward and upward tomorrow!
+
+**Link to work:** 
+
