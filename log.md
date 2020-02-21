@@ -253,3 +253,42 @@ https://www.kaggle.com/alyshareinard/looking-at-deaths-vs-recoveries
 
 **Link to work:** 
 
+### R1D27: Feb 10, 2020 
+
+**Today's Progress**: Not feeling it today -- but didn't want to lost my streak so I did a few regex exercises on hackerrank.  
+
+**Thoughts:** Low day today -- onward and upward tomorrow!
+
+**Link to work:**
+
+(Note, Feb 20 -- I have not been updating this, so I'm catching up today.)
+### R1D28: Feb 11, 2020 
+
+**Today's Progress**: Lots of data science review, reviewing my old projects for video interview
+
+**Thoughts:** 
+
+**Link to work:**
+
+### R1D29: Feb 12, 2020 - R1D34 Feb 17, 2020
+
+**Today's Progress**: working on project for hands on task
+
+**Thoughts:** Learned a lot about Jupyter notebook, visualizations, pandas groupby, etc.  Feeling good
+
+**Link to work:** https://github.com/alyshareinard/one_offs/blob/master/Proton%20project-FInal.ipynb
+
+### -: Feb 18, 2020 - Feb 20, 2020
+
+**Today's Progress**: Kids on vacation, stomach flu going around, not too productive.
+
+**Thoughts:** 
+**Link to work:** 
+
+### R1D35: Feb 21, 2020
+
+**Today's Progress**: Back to Swift -- learned how to use CoreData
+
+**Thoughts:** Powerful stuff -- if I'm going to make some nice apps, I need to be able to save the data and CoreData is the way to do it.  It seems pretty easy in concept, though all the piece that need to be kept track of are something I'll have to get better at.  
+
+**Link to work:** https://github.com/alyshareinard/Bookworm
