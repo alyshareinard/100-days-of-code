@@ -292,3 +292,11 @@ https://www.kaggle.com/alyshareinard/looking-at-deaths-vs-recoveries
 **Thoughts:** Powerful stuff -- if I'm going to make some nice apps, I need to be able to save the data and CoreData is the way to do it.  It seems pretty easy in concept, though all the piece that need to be kept track of are something I'll have to get better at.  
 
 **Link to work:** https://github.com/alyshareinard/Bookworm
+
+### R1D35: Feb 22 - March 2, 2020
+
+**Today's Progress**: I am realizing today (Feb 26) that I've been overwhelmed with things I "should" do and have been scattered in my work -- doing a bit of swift, a bit of playing on kaggle, a bit of reading on python, but without having nice snippets to report here.  I'm going to take a pause until Monday, try to make some order of things and come up with a plan to proceed -- then I'll recommit to the 100 days of code.  
+
+**Thoughts:** 1/3 of the way through, time to take a breather and refactor my brain.  
+
+**Link to work:** To come!
