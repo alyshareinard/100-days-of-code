@@ -315,4 +315,4 @@ New software: Learning the Giotto package.  I've been wanting to work on this si
 
 **Thoughts:**  I'm feeling positive about this reset -- the key will be to keep it going!
 
-**Link to work:** ![Image description](link-to-image)
+**Link to work:** ![Sketch of Wine-ventory app](IMG_1156.jpg)
