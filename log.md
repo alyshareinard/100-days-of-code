@@ -293,7 +293,7 @@ https://www.kaggle.com/alyshareinard/looking-at-deaths-vs-recoveries
 
 **Link to work:** https://github.com/alyshareinard/Bookworm
 
-### R1D35: Feb 22 - March 1, 2020
+### -----: Feb 22 - March 1, 2020
 
 **Today's Progress**: I am realizing today (Feb 26) that I've been overwhelmed with things I "should" do and have been scattered in my work -- doing a bit of swift, a bit of playing on kaggle, a bit of reading on python, but without having nice snippets to report here.  I'm going to take a pause until Monday, try to make some order of things and come up with a plan to proceed -- then I'll recommit to the 100 days of code.  
 
@@ -316,3 +316,11 @@ New software: Learning the Giotto package.  I've been wanting to work on this si
 **Thoughts:**  I'm feeling positive about this reset -- the key will be to keep it going!
 
 **Link to work:** ![Sketch of Wine-ventory app](IMG_1156.jpg)
+
+### R1D37: March 3, 2020
+
+**Today's Progress**: I spent a lot of time getting Giotto up and running (partly an issue with chasing down dependencies, but a bigger issue turned out to be an old version of Giotto that I had installed, which was messing with my new version. I deleted everything and started again and things finally worked). I also loaded a couple tutorials and installed the dependencies that were required for them. And I read a bit about the software.  
+
+**Thoughts:**  Not too glamorous -- a bit tedious in fact, but forward motion is forward motion! 
+
+**Link to work:** 
