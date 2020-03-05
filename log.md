@@ -324,3 +324,19 @@ New software: Learning the Giotto package.  I've been wanting to work on this si
 **Thoughts:**  Not too glamorous -- a bit tedious in fact, but forward motion is forward motion! 
 
 **Link to work:** 
+
+### R1D38: March 4, 2020
+
+**Today's Progress**: Swift today -- I put together the main page for the Win-ventory app and stubs for the secondary pages.  I did some research into incorporating a barcode reader and read up on barcode databases -- it would be nice not to have to add all the wine information by hand.  This one exists and has an api so I'll look into incorporating it https://upcdatabase.org/
+
+**Thoughts:**  Nice to put my app sketch into an app framework. 
+
+**Link to work:** 
+
+### R1D39: March 5, 2020
+
+**Today's Progress**: Swift today -- Really digging into creating a barcode reader.  "All" you have to do is wrap a UIViewcontroller -- I've copied over some implementations, but I'm having trouble incorporating them into my app.  I'm missing something in the way I'm calling the view controller I think.  I found this tutorial (https://www.hackingwithswift.com/books/ios-swiftui/hot-prospects-introduction)  by the same hacking with swift guy I've been following before. I'm going to work through the example project and then adapt it for my Wine-ventory app.  
+
+**Thoughts:**  Back to a tutorial, but this time with a specific project goal in mind
+
+**Link to work:** 
