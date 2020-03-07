@@ -340,3 +340,18 @@ New software: Learning the Giotto package.  I've been wanting to work on this si
 **Thoughts:**  Back to a tutorial, but this time with a specific project goal in mind
 
 **Link to work:** 
+
+### R1D40: March 6, 2020
+
+**Today's Progress**: Worked through the theory part of the tutorial (https://www.hackingwithswift.com/books/ios-swiftui/hot-prospects-introduction) This weekend I'll move on to the application
+
+**Thoughts:**  HackingWithSwift does a great job of explaining how things fit together and building up the knowledge you need.  
+**Link to work:** 
+
+### R1D41: March 7, 2020
+
+**Today's Progress**: Completed the app, including scanning QR codes.  (https://www.hackingwithswift.com/books/ios-swiftui/hot-prospects-introduction) 
+
+**Thoughts:**  This tutorial came with some background files to process the QR codes, and I think they'll work for barcodes as well -- I'll try that next time.  
+
+**Link to work:** 
