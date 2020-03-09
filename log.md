@@ -355,3 +355,13 @@ New software: Learning the Giotto package.  I've been wanting to work on this si
 **Thoughts:**  This tutorial came with some background files to process the QR codes, and I think they'll work for barcodes as well -- I'll try that next time.  
 
 **Link to work:** 
+
+### R1D42: March 9, 2020
+
+**Today's Progress**: Implemented much of the hacking with swift code to my app.  I am at the stage where I can read barcodes (!!) but I haven't worked out how to handle or displaying them and I'm getting a "UIScrollView does not support multiple observers implementing..." error.  Next time I should start with https://www.hackingwithswift.com/books/ios-swiftui/saving-and-loading-data-with-userdefaults then circle back and work out how to display the data.  But I want to do a bit more on the Box Office challenge, so I'm switching to that right now. 
+  Worked through Kaggle notebook for the box office challenge -- made a "starpower" column to account for the cast and crew -- for each person I have a dictionary saying how many movies they're a part of.  For each movie I go through the cast and crew and take the 10 people with the most movie connections and average the number of connections. This "star power" value does correlate with revenue.  More tomorrow.  
+
+**Thoughts:**  
+
+**Link to work:** 
+
